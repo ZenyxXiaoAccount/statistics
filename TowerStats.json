@@ -737,7 +737,7 @@
         ]
     },
     "Endo 02": {
-        "Type": "Single",
+        "Type": "Pierce",
         "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -752,25 +752,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 60,
                 "Cooldown": 0.3
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 35,
+                "Damage": 70,
                 "Cooldown": 0.3
             },
             {
                 "Price": 1600,
                 "Range": 22,
-                "Damage": 45,
+                "Damage": 90,
                 "Cooldown": 0.3
             },
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 120,
                 "Cooldown": 0.3
             }
         ]
