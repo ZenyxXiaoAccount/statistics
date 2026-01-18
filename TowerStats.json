@@ -502,42 +502,62 @@
             }
         ]
     },
-      "Lefty": {
-        "Type": "Cone AOE",
+     "Lefty": {
+        "Type": "Summoner",
         "Image": "rbxassetid://71854603701229",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
-        "Offset": 0,
-        "Max": 3,
+        "PlacePrice": 0,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
+        "Offset": -1.5,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 60,
-                "Cooldown": 0.05
+                "Range": 16,
+                "Damage": 100,
+                "Cooldown": 5,
+                "SummonTime": 40,
+                "Health": 50000,
+                "WalkSpeed": 16,
+                "Unit": "Haunted Soul",
+                "Offset": -1.5
             },
             {
-                "Price": 20000,
-                "Range": 22,
-                "Damage": 70,
-                "Cooldown": 0.05
+                "Price": 0,
+                "Range": 28,
+                "Damage": 150,
+                "Cooldown": 4,
+                "SummonTime": 38,
+                "Health": 500000,
+                "WalkSpeed": 11,
+                "Unit": "Haunted Soul",
+                "Offset": -1.5
             },
             {
-                "Price": 30000,
-                "Range": 25,
-                "Damage": 80,
-                "Cooldown": 0.05
+                "Price": 0,
+                "Range": 32,
+                "Damage": 200,
+                "Cooldown": 2,
+                "SummonTime": 37,
+                "Health": 250000,
+                "WalkSpeed": 11,
+                "Unit": "Haunted Soul",
+                "Offset": -1.5
             },
             {
-                "Price": 40000,
-                "Range": 30,
-                "Damage": 110,
-                "Cooldown": 0.05
+                "Price": 0,
+                "Range": 38,
+                "Damage": 250,
+                "Cooldown": 1,
+                "SummonTime": 36,
+                "Health": 400000,
+                "WalkSpeed": 11,
+                "Unit": "Haunted Soul",
+                "Offset": -1.5
             }
         ]
     },
